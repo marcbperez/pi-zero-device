@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## 0.2.0 - 2016-11-22
+
+### Added
+
+  - Main KiCAD project.
+  - Project schematics.
+
 ## 0.1.0 - 2016-11-21
 
 ### Added
