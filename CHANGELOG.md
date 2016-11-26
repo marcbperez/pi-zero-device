@@ -3,7 +3,13 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
-## 0.6.0 - 2016-11-25
+## 0.6.1 - 2016-11-26
+
+### Fixed
+
+  - Typographical errors from this CHANGELOG.
+
+## 0.6.0 - 2016-11-26
 
 ### Added
 
