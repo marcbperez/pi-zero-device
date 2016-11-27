@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## Unreleased
+
+### Added
+
+  - MMUN2133LT1G component library.
+  - MMUN2133LT1G component datasheet.
+
 ## 0.6.1 - 2016-11-26
 
 ### Fixed
