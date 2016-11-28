@@ -60,5 +60,16 @@ LibName31=mic5225-3-3v
 LibName32=fan5333bsx
 LibName33=mcp73871
 LibName34=tps61090rsar
+LibName35=mmun2133lt1g
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
