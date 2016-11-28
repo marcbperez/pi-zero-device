@@ -40,8 +40,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Pi Zero Device"
-Date "2016-11-27"
-Rev "0.7.0"
+Date "2016-11-28"
+Rev "0.8.0"
 Comp "marcbperez, Widerware"
 Comment1 ""
 Comment2 ""
